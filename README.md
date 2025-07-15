@@ -1,4 +1,4 @@
-JVMDumper – JVM Function Scanner and Score Reporter
+# JVMDumper – JVM Function Scanner and Score Reporter
 
 **JVMDumper** is a low-level diagnostic tool designed to examine and evaluate the exported functionality of the JVM runtime on Windows platforms. It analyzes the existence and accessibility of core JNI, JVM, and JVMTI functions by performing complete symbol enumeration and function address resolution on both `jvm.dll` and `hotspot.dll`.
 
